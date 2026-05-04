@@ -1,0 +1,4 @@
+cd backend
+cp .env.example .env          # Fill in your ANTHROPIC_API_KEY
+npm install
+npm run dev                   # Runs on http://localhost:3001
